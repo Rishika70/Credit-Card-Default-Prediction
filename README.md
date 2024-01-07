@@ -68,7 +68,6 @@ X23 = amount paid in April, 2005.
 This Project includes 1 colab notebook.
 Executable Files:
 Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms which are used in this project.
-credit card default prediction.pdf - Includes pdf of the presentation of the project.
 Output:
 Google Colab - All the outputs are visible in the provided colab notebook.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
