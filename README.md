@@ -65,7 +65,7 @@ X23 = amount paid in April, 2005.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 ## 💾 Project Files Description
-This Project includes 1 colab notebook and 1 Pdf of presentation.
+This Project includes 1 colab notebook.
 Executable Files:
 Credit-Card-Default-Prediction - Includes Exploratory Data Analysis and all algorithms which are used in this project.
 credit card default prediction.pdf - Includes pdf of the presentation of the project.
